@@ -2,5 +2,6 @@ Placeholder for OnPrem ransomware recovery reference architecture example script
 
 Description:
 
-**ransomware-recovery.py** - simple guided example of the novel ransomware recovery workflow using VR REST APIs
-**nsxtRwrIsolationPolicies/** - location of network configuration scripts, that can be used to setup an isolated recovery environment using NSX
+_**ransomware-recovery.py**_ - simple guided example of the novel ransomware recovery workflow using VR REST APIs
+
+_**nsxtRwrIsolationPolicies/**_ - location of network configuration scripts, that can be used to setup an isolated recovery environment using NSX
