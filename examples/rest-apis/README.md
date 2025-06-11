@@ -1,4 +1,4 @@
-# site-recovery-manager
+# vcf-data-protection-rest-apis
 
 Examples (code snippets) of working REST API requests. 
 
